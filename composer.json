@@ -1,0 +1,17 @@
+{
+    "name": "m/ratchet",
+    "authors": [
+        {
+            "name": "Michel",
+            "email": "michael.milawski@planet-itservices.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "app"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.2"
+    }
+}
